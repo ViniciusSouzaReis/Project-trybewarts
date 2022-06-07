@@ -1,6 +1,7 @@
 .header {
   background-color: rgb(50, 167, 145);
   display: flex;
+  width: 100%;
 }
 
 .trybewarts-login {
@@ -10,6 +11,11 @@
   padding: 10px;
 }
 
-header {
+form {
+  display: flex;
+  width: 675px;
+}
+
+main {
   display: flex;
 }
